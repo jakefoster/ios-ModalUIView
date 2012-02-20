@@ -1,0 +1,15 @@
+.DS_Store
+*.swp
+*~.nib
+build/
+DerivedData/
+*.pbxuser
+*.perspective
+*.perspectivev3
+xcuserdata/
+*.xcuserdatad/
+.*~
+*.*~
+ModalUIView.xcodeproj/project.xcworkspace/
+\#*.*\#
+\#*\#
